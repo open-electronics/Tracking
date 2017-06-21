@@ -13,6 +13,8 @@ Infine per documentazione:
 * i sorgenti delle due classi Java che compongono la parte su PC che identifica la posizione del volto
 * un piccolo ReadMe.txt per illustrare l'utilizzo
 
+Tenete presente che il brandeggio è collegato al pin 9 di Arduino, mentre l'elevazione al pin 10 come potete verificare dallo sketch.
+
 Nel sito trovate anche, per comodità, un archivio di modelli di riconiscimento di oggetti tratto da OpenCV:
 haarcascades.zip
 
