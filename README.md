@@ -1,3 +1,15 @@
+Site content:
+* Tracking application (complete) for Windows system: TrackingWin.zip
+* Tracking application (complete) for Raspberry Pi system: TrackingRasp.zip
+* OpenCV Java library for Windows system: opencv-320-jar-win.zip
+* OpenCV Java library for Raspberry Pi : opencv-320-jar-rasp.zip
+* Serial port Java library for Windows system : SerialLib-jar-win.zip
+* Serial port Java library for Raspberry Pi: SerialLib-jar-rasp.zip
+* Archive of different trained models haarcascades: haarcascades.zip
+* Test to verify Raspberry Pi packages required for OpenCV library: TestPackagesRasp.zip
+* Just Arduino sketch for PID implemented in tracking application (for visualization): TracPID.zip
+* Compiled OpenCV library for Raspberry Pi: opencv32-compiled-Rasp.zip
+
 # Tracking
 Questo è il sito da cui potete scaricare il software presentato sulla rivista ElettronicaIn riguardo ad una applicazione che usa Arduino come regolatore PID che comanda un pan-tilt su cui montare una webcam collegata al PC.
 Il progetto è quindi composto da uno sketch per Arduino ed un software Java che utilizza OpenCV per identificare la posizione di un qualsiasi volto umano.
